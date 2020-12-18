@@ -26,6 +26,7 @@ FILES = \
 	Prop/Sterbenz.v \
 	Prop/Round_odd.v \
 	Prop/Double_rounding.v \
+	Prop/Emulated_succ_pred.v \
 	@PRIM_FLOAT@ \
 	IEEE754/SpecFloatCompat.v \
 	IEEE754/BinarySingleNaN.v \
