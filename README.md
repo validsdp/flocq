@@ -1,3 +1,7 @@
+**Working copy (non-official) of the Flocq repository**
+
+For the official repo URL, see <https://gitlab.inria.fr/flocq/flocq>.
+
 FLOCQ
 =====
 
